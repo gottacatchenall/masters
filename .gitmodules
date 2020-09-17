@@ -1,0 +1,39 @@
+[submodule "stochastic_logistic_notebook"]
+	path = stochastic_logistic_notebook
+	url = https://github.com/gottacatchenall/stochastic_logistic_notebook
+[submodule "masters_thesis"]
+	path = masters_thesis
+	url = https://github.com/gottacatchenall/masters_thesis
+[submodule "critical_transitions_in_ecological_dynamics_on_spatial_graphs"]
+	path = critical_transitions_in_ecological_dynamics_on_spatial_graphs
+	url = https://github.com/gottacatchenall/critical_transitions_in_ecological_dynamics_on_spatial_graphs
+[submodule "terra"]
+	path = terra
+	url = https://github.com/gottacatchenall/terra
+[submodule "mpfmJulia"]
+	path = mpfmJulia
+	url = https://github.com/gottacatchenall/mpfmJulia
+[submodule "dke"]
+	path = dke
+	url = https://github.com/gottacatchenall/dke
+[submodule "mpfm_core"]
+	path = mpfm_core
+	url = https://github.com/gottacatchenall/mpfm_core
+[submodule "mpfm"]
+	path = mpfm
+	url = https://github.com/gottacatchenall/mpfm
+[submodule "old_homepage"]
+	path = old_homepage
+	url = https://github.com/gottacatchenall/old_homepage
+[submodule "lichen_genomes"]
+	path = lichen_genomes
+	url = https://github.com/gottacatchenall/lichen_genomes.git
+[submodule "mpfm1.0"]
+	path = mpfm1.0
+	url = https://github.com/gottacatchenall/mpfm1.0
+[submodule "2deme"]
+	path = 2deme
+	url = https://github.com/gottacatchenall/2deme
+[submodule "flaxman-lab"]
+	path = flaxman-lab
+	url = https://github.com/gottacatchenall/flaxman-lab
